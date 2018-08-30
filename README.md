@@ -22,3 +22,14 @@ Customize your nodegroup(worker nodes)：客製化方法
 
 Working with kubectl for basic administrations：指令說明
 ``
+
+
+
+SpotFleet Configuration instance 建議到t2 即可
+
+port-forward 可以變成類似本機端
+
+LoadBalancer ：把端口網上掛CLB
+
+demo sample golang版
+https://github.com/pahud/greeting
