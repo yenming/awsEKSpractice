@@ -6,6 +6,14 @@ step 2: Traefik Ingress and ALB
 Resources:
 github:https://github.com/pahud/amazon-eks-workshop
 
-challenges 1
 
-challenges 2 
+
+Getting Started
+
+Create your EKS Cluster with eksctl：
+
+Installing Helm：套件
+
+Customize your nodegroup(worker nodes)：客製化方法
+
+Working with kubectl for basic administrations：指令說明
