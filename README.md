@@ -12,7 +12,7 @@ Getting Started
 
 Create your EKS Cluster with eksctl：
 
-Installing Helm：套件
+Installing Helm：套件，類似npm install ，yarm install 的感覺
 
 Customize your nodegroup(worker nodes)：客製化方法
 
